@@ -1,4 +1,4 @@
-### Namaskar, I'm Pritam Das 👋
+### Namoshkaar, I'm Pritam Das 👋
 
 
 - 🔭 I’m currently working on Python & R programming.
