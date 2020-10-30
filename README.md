@@ -35,5 +35,36 @@
 - ⚡ Fun fact: I play mobile games like CODM, etc for daily about 1-2 hours & stream on [Omlate Arcade](https://omlet.gg/profile/gilding_troll). 
 
 [![Twitter: me_pritam_das](https://img.shields.io/twitter/follow/me_pritam_das?style=social)](https://twitter.com/me_pritam_das)
-[![Linkedin: pritam-das](https://img.shields.io/badge/-pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pritam-das-614774131/)](https://linkedin.com/in/pritam-das-614774131/)
+[![Linkedin: pritam-das](https://img.shields.io/badge/-p-das-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pritam-das-614774131/)](https://linkedin.com/in/pritam-das-614774131/)
 [![GitHub mepritam93](https://img.shields.io/github/followers/mepritam93?label=follow&style=social)](https://github.com/mepritam93)
+
+<!--
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+-->
+
+<a href="https://github.com/mepritam93">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mepritam93&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mepritam93">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mepritam93&show_icons=true&theme=light&line_height=27" alt="Pritam's github stats"/>
+</a>
+
+<!--
+<a href="https://github.com/mepritam93/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mepritam93&repo=FlutterExampleApps&theme=light" />
+</a>
+<a href="https://github.com/mepritam93/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mepritam93&repo=VelocityX&theme=light" />
+</a>
+-->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
