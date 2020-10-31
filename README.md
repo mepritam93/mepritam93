@@ -1,4 +1,4 @@
-# Namoshkaar, I'm [Pritam Das](https://linkedin.com/in/pritam-das-614774131/) ! 👋 <!-- img src="https://raw.githubusercontent.com/mepritam93/mepritam93/master/wave.gif" width="30px" -->
+# Namoshkaar, I'm [Pritam Das](https://linkedin.com/in/pritam-das-614774131/) ! &#x1f64f;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mepritam93&label=Views&color=blue&style=plastic" alt="mepritam93" /> </p>
 
@@ -22,7 +22,6 @@
 </a>
 
 <br/>
-<br/>
 
 
 - 🔭 I’m currently working on Python & R programming.
@@ -33,6 +32,7 @@
 - 📫 How to reach me: [Twitter - @me_pritam_das](https://twitter.com/me_pritam_das), [Facebook - @pritam.das](https://www.facebook.com/pritam.das.73550/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play mobile games like CODM, etc for daily about 1-2 hours & stream on [Omlate Arcade](https://omlet.gg/profile/gilding_troll). 
+
 
 [![Twitter: me_pritam_das](https://img.shields.io/twitter/follow/me_pritam_das?style=social)](https://twitter.com/me_pritam_das)
 [![Linkedin: pritam-das](https://img.shields.io/badge/-Pritam%20Das-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pritam-das-614774131/)](https://linkedin.com/in/pritam-das-614774131/)
@@ -53,6 +53,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mepritam93&show_icons=true&theme=radical&line_height=27" alt="Pritam's github stats"/>
 </a>
 -->
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
