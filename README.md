@@ -1,4 +1,4 @@
-# Namoshkaar, I'm [Pritam Das](https://linkedin.com/in/pritam-das-614774131/) ! &#x1f64f;
+# Namaste, I'm [Dr. Pritam Das](https://linkedin.com/in/pritam-das-614774131/) ! &#x1f64f;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mepritam93&label=Views&color=blue&style=plastic" alt="mepritam93" /> </p>
 
@@ -24,14 +24,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on Python & R programming.
-- 🌱 I’m currently learning Python & R programming, ML etc.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with a project idea, related to image processing and Andriod App.
+- 🔭 I’ve done Ph.D. [Soil and Water Conservation Engineering], M.Tech [SWE], & B.Tech [Agril. Engg.].
+- 🌱 I’ve worked on programming languages [Python, R, C, HTML, JavaScript, etc.], ML & DL, GEE, Water Resources, Remote Sensing, etc.
+- 👯 I’m looking to collaborate on projects/researches, related to Agriculture, Water Resource, Disaster Management, Climate Change, RS & GIS, ML, etc.
+<!--- - 🤔 I’m looking for help with a project idea, . -->
 - 💬 Ask me about my ideas in blending knowledge of Agriculture & Computer Science.
 - 📫 How to reach me: [Twitter - @me_pritam_das](https://twitter.com/me_pritam_das), [Facebook - @pritam.das](https://www.facebook.com/pritam.das.73550/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I play mobile games like CODM, etc for daily about 1-2 hours & stream on [Omlate Arcade](https://omlet.gg/profile/gilding_troll). 
+<!--- - 😄 Pronouns: He/His
+⚡ Fun fact: I play mobile games like CODM, etc for daily about 1-2 hours & stream on [Omlate Arcade](https://omlet.gg/profile/gilding_troll). -->
 
 
 [![Twitter: me_pritam_das](https://img.shields.io/twitter/follow/me_pritam_das?style=social)](https://twitter.com/me_pritam_das)
@@ -57,10 +57,11 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-GEE-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
